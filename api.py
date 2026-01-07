@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException
 import json, os
 from datetime import datetime
 
-app = FastAPI(title="Distance MBA popular course")
+app = FastAPI(title="Parttime MBA popular course")
 
 DATA_FILE = "distance_mba_data.json"
 
@@ -46,7 +46,7 @@ def root():
 
 
 # 🔹 Full data
-@app.get("/distance_mba")
+@app.get("/parttime_mba")
 def get_all_data():
     return {
         "data": load_data()
@@ -54,7 +54,7 @@ def get_all_data():
 
 
 # 🔹 Access ANY section by name
-@app.get("/distance_mba/{section_name}")
+@app.get("/parttime_mba/{section_name}")
 def get_section_by_name(section_name: str):
     data = load_data()
     result = find_section(data, section_name)
