@@ -2,8 +2,11 @@ name: MBA Scraper
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # Daily 3 AM
-  workflow_dispatch:
+    - cron: "0 3 * * *" # Daily 3 AM
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
 
 jobs:
   scrape:
@@ -22,7 +25,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Install Chromium
-        run: sudo apt-get update && sudo apt-get install -y chromium-browser chromium-chromedriver
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium
 
       - name: Run scraper
         run: python scraper.py
@@ -31,6 +36,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add mba_data.json
+          git add distance_mba_data.json
           git commit -m "Auto update MBA data" || echo "No changes"
           git push
