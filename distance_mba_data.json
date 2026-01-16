@@ -110,20 +110,12 @@
         "important_dates": {
           "upcoming": [
             {
-              "date": "05 Jan ' 26 - 10 Jan ' 26",
-              "event": "NMAT 2025 Registration (Additional Window) ONGOING"
-            },
-            {
-              "date": "05 Jan ' 26 - 10 Jan ' 26",
-              "event": "NMAT 2025 Scheduling (Additional Window) ONGOING"
-            },
-            {
-              "date": "Jan ' 26",
-              "event": "XAT 2026 answer key out TENTATIVE"
-            },
-            {
               "date": "13 Jan ' 26 - 17 Jan ' 26",
-              "event": "NMAT 2025 Exam Date (Additional Window)"
+              "event": "NMAT 2025 Exam Date (Additional Window) ONGOING"
+            },
+            {
+              "date": "10 Jan ' 26 - 12 Feb ' 26",
+              "event": "MAH MBA CET 2026 registration ONGOING"
             },
             {
               "date": "25 Jan ' 26",
@@ -136,20 +128,28 @@
             {
               "date": "Jan ' 26 - Feb ' 26",
               "event": "TANCET registration window TENTATIVE"
+            },
+            {
+              "date": "23 Feb ' 26",
+              "event": "MAT Feb 2026 PBT Registration last date"
+            },
+            {
+              "date": "01 Mar ' 26",
+              "event": "MAT Feb 2026 PBT"
             }
           ],
           "past": [
             {
+              "date": "05 Jan ' 26 - 10 Jan ' 26",
+              "event": "NMAT 2025 Registration (Additional Window)"
+            },
+            {
+              "date": "05 Jan ' 26 - 10 Jan ' 26",
+              "event": "NMAT 2025 Scheduling (Additional Window)"
+            },
+            {
               "date": "27 Dec ' 25 - 28 Dec ' 25",
               "event": "IBSAT 2025 Exam Date"
-            },
-            {
-              "date": "20 Dec ' 25",
-              "event": "SNAP 2025 session 3"
-            },
-            {
-              "date": "14 Dec ' 25",
-              "event": "SNAP 2025 session 2"
             }
           ]
         },
@@ -157,14 +157,6 @@
           {
             "question": "Can I do MBA without giving any entrance exam?",
             "answer": "In rare circumstances, it is possible to pursue an MBA without taking any entrance exam. The CAT, CMAT, MAT, GMAT, XAT , and other standardized entrance exams are needed for admission to many MBA courses worldwide. If you are not planning to take the CAT in 2026, listed below are some direct admission eligibility criteria to help you be accepted into MBA programs . The minimum score required in the UG level examination may differ from one college to another, however, the student need to have scored at least 50%-65% aggregate in his or her graduation. For the reserved category, the score should at least be 45% aggregate. Some institutes accept other competitive exam scores such as XAT, MAT, GMAT, NMAT, ATMA, SNAP, etc. If you did not appear for the CAT exam and still wish to get admission to the best MBA colleges in India without CAT, then, here is a list of top MBA institutes that give admissions based on different entrance criteria or exams. MBA Colleges/ Institutes MBA Exam Score Accepted SIBM, Pune SNAP XLRI, Jamshedpur XAT Xavier University, Bhubaneshwar XAT, X-GMT Indian School of Business, Hyderabad GMAT Amity University XAT/GMAT/MAT/CAT/NMAT Note: This information is sourced from the official website of the institute and may vary. Hope this helps!!!"
-          },
-          {
-            "question": "What is MAT application fee?",
-            "answer": "The fee payment to appear for the MAT exam is mandatory. The AIMA charges every candidates examination fee at the time of form filling. While filling the MAT application form the fee payment is to be done for acceptance of the candidature. The MAT application fees have been increased and the revised fees are as follows: Paper-Based Test (PBT): INR 2,200 Computer-Based Test (CBT): INR 2,200 Internet-Based Test (IBT): 2,200 Both PBT and CBT: INR 3,800 Candidates are required to pay the fee in online mode I. e. through debit card, credit card, net banking or UPI. Candidates must note that the MAT application form will not be submitted until the fee payment is done. Key points to keep in mind while filling the MAT application form is that the fee is non-refundable and there is no provision of form corrections. So, in case a candidate has made a mistake in the form, they will have to register again and fill a new form by paying the fee again. To take a re-test also, candidates have to fill a fresh MAT application form and pay the fee again."
-          },
-          {
-            "question": "What is the syllabus and exam pattern of ATMA?",
-            "answer": "ATMA (AIMS Test for Management Admissions) is a national-level entrance exam conducted by the Association of Indian Management Schools (AIMS) for admission to MBA/PGDM and other postgraduate management programmes in various B-schools across India. The syllabus and exam pattern for ATMA are as follows: Syllabus: The ATMA exam tests the candidate's aptitude in the following areas: Analytical Reasoning Skills Verbal Skills Quantitative Skills Exam Pattern: The ATMA exam is a computer-based test. The duration of the exam is 180 minutes (3 hours). The exam consists of 180 Multiple Choice Questions (MCQs). The questions are from three different sections, namely Analytical Reasoning Skills, Verbal Skills, and Quantitative Skills. Each correct answer carries one mark, and there is a negative marking of 0.25 marks for incorrect answers. The total marks for the exam are 180. The detailed section-wise exam pattern is as follows: Section 1: Analytical Reasoning Skills This section tests the candidate's analytical and logical reasoning abilities. It consists of 60 MCQs. The section tests the candidate's knowledge of topics such as Coding-Decoding, Blood Relations, Analogy, etc. Section 2: Verbal Skills This section tests the candidate's English language skills. It consists of 60 MCQs. The section tests the candidate's understanding of topics such as Grammar, Vocabulary, Reading Comprehension, etc. Section 3: Quantitative Skills This section tests the candidate's Quantitative Aptitude. It consists of 60 MCQs. The section tests the candidate's knowledge of topics such as Arithmetic, Algebra Geometry, Trigonometry etc."
           }
         ]
       },
@@ -565,94 +557,94 @@
     "QNA": {
       "QA_ALL": {
         "tag_name": "MBA/PGDM",
-        "description": "Get insights from 127.5k questions on MBA/PGDM, answered by students, alumni, and experts. You may also ask and answer any question you like about MBA/PGDM",
+        "description": "Get insights from 127.8k questions on MBA/PGDM, answered by students, alumni, and experts. You may also ask and answer any question you like about MBA/PGDM",
         "stats": {
-          "Questions": "127.5k",
+          "Questions": "127.8k",
           "Discussions": "55",
-          "Active Users": "596",
-          "Followers": "194999"
+          "Active Users": "572",
+          "Followers": "195000"
         },
         "questions": [
           {
-            "question_text": "Can I apply for the Global MBA course at Lexicon MILE with CAT score?",
+            "question_text": "Are admissions 2026 open for MBA at IMED Pune?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "CAT",
-                "tag_url": "https://www.shiksha.com/mba/cat-exam"
+                "tag_name": "Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
+                "tag_url": "https://www.shiksha.com/college/institute-of-management-and-entrepreneurship-development-bharati-vidyapeeth-erandwana-pune-19617"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                  "name": "Chikat Marchang",
+                  "profile_url": "https://www.shiksha.com/userprofile/97350186"
                 },
-                "answer_text": "No, candidates who wish to apply for the Global MBA course at Lexicon MILE are required to clear the LAT conducted by Lexicon MILE. The CAT exam score at Lexicon MILE is only used for deciding the PGDM admissions along with several other entrance exams.",
+                "answer_text": "Yes, IMED Pune admissions for 2026 are open. Admissions to MBA are offered through BMAT 2026. Students can check the important dates for Institute of Management and Entrepreneurship Development admissions: Event Important Dates BMAT 2026 Applications Deadline 8 Feb 2026 BMAT 2026 Exam Date 15 Feb 2026 Merit List Release Date 20 Feb 2026 BUMAT 2026 Applications Deadline 5 June 2026 BUMAT 2026 Exam Date 13 June 2026 Merit List Release Date 20 June 2026",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "18 mins ago"
+                "posted_time": "2 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is the admission timeline for Global MBA different from the standard PGDM course at Lexicon MILE?",
+            "question_text": "Can I join IMED Pune for MBA?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Business Management Studies",
-                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
+                "tag_name": "Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
+                "tag_url": "https://www.shiksha.com/college/institute-of-management-and-entrepreneurship-development-bharati-vidyapeeth-erandwana-pune-19617"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                  "name": "Chikat Marchang",
+                  "profile_url": "https://www.shiksha.com/userprofile/97350186"
                 },
-                "answer_text": "Lexicon MILE has not revealed the admission timeline for the Global MBA and PGDM courses for 2026. However, since the accepted entrance exam is different for Global MBA and PGDM courses, it is being assumed that the admission timeline for Global MBA is different from the standard PGDM courses.",
+                "answer_text": "Yes. You can join the MBA programme at IMED Pune . The institute conducts its own entrance examination, BMAT 2026 (Bharati Vidyapeeth Management Aptitude Test) , which is the only entrance test for MBA admissions at IMED. To be eligible students must: Hold a bachelor's degree in any discipline from a recognised university As well as have a minimum of 50% aggregate marks (45 % for SC/ST candidates ). Admissions to the MBA programme at IMED Pune are strictly based on BMAT 2026 , and the institute is not affiliated with MAH CET for MBA admissions.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "21 mins ago"
+                "posted_time": "2 hours ago"
               }
             ]
           },
           {
-            "question_text": "Which is the best college for MBA without giving any entrance test like CAT, MAT and XAT?",
+            "question_text": "What is the eligibility criteria for MBA at IMED Pune?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "School of Business, Sushant University",
-                "tag_url": "https://www.shiksha.com/college/school-of-business-sushant-university-gurgaon-38926"
+                "tag_name": "Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
+                "tag_url": "https://www.shiksha.com/college/institute-of-management-and-entrepreneurship-development-bharati-vidyapeeth-erandwana-pune-19617"
               }
             ],
-            "followers": 3,
+            "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
+                  "name": "Chikat Marchang",
+                  "profile_url": "https://www.shiksha.com/userprofile/97350186"
                 },
-                "answer_text": "Lovely Professional University is the best. MBA is a flagship programme of Lovely Professional University. Accreditation: School of Business has been accredited by the Accreditation Council for Business Schools and Programs (ACBSP) of the USA. Ranking: School is ranked No. 2 in India in Outreach and Inclusivity and is amongst the top 50 institutes in the prestigious NIRF ranking released by The Ministry of Human Resource Development (MHRD), Government of India. Curriculum: The curriculum is made keeping in mind the current market trends and is vetted by company officials. International Exposure: Students are provided with the option of",
+                "answer_text": "To be eligible for MBA at IMED Pune students have to complete these requirements: Candidates must hold a bachelor's degree in any discipline from a recognised university with a minimum of 50% aggregate marks ( 45% for SC/ST candidates ). While admission to the MBA programme at IMED Pune is based on performance in the BMAT (Bharati Vidyapeeth Management Aptitude Test) , conducted by Bharati Vidyapeeth (Deemed to be University). For detailed and updated admission information, candidates should visit the official university website .",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "2 hours ago"
               }
             ]
           },
           {
-            "question_text": "Which is the best college among LPU & Manipal University for MBA?",
+            "question_text": "What aggregate is required for MBA at LPU Admission Office?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -663,173 +655,157 @@
                 "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
               }
             ],
-            "followers": 1,
+            "followers": 0,
             "answers": [
               {
                 "author": {
                   "name": "Vridhi",
                   "profile_url": "https://www.shiksha.com/userprofile/77038745"
                 },
-                "answer_text": "There are many reputed Institutions in India who are providing quality education for MBA. But other than Iims & other deemed Institutions; any aspirant should make their selection SMARTLY & WISELY based on the Educational Standard & future career prospect extended by the particular University. I am a proud alumni of Lovely Professional University. During my academic days in LPU I had experienced how perfectly we were guided by our respected professors in most precise way with innovative pedagogy & curriculum. There are several unique features are associated with Mittal School of Business, LPU which makes the school a miles ahead in ter",
+                "answer_text": "Candidates need to complete graduation with at least 55% aggregate to apply for MBA at Lovely Professional University (Admission Office). Aspirants who have completed or Company Secretary (CS) from the Institute of Company Secretaries of India (ICSI) or Chartered Accountancy (CA) from the Institute of Chartered Accountants of India (ICAI) or Cost & Management Accountancy (CMA) from Institute of Cost Accountants of India (ICAI) can also apply.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "3 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the hostel fees for an MBA at GNIOT Institute of Management Studies?",
+            "question_text": "What is the admission process for MBA at Institute of Management and Entrepreneurship Development?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "GNIOT Institute of Management Studies",
-                "tag_url": "https://www.shiksha.com/college/gniot-institute-of-management-studies-greater-noida-214139"
+                "tag_name": "Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
+                "tag_url": "https://www.shiksha.com/college/institute-of-management-and-entrepreneurship-development-bharati-vidyapeeth-erandwana-pune-19617"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Atul Pruthi",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586734"
+                  "name": "Chikat Marchang",
+                  "profile_url": "https://www.shiksha.com/userprofile/97350186"
                 },
-                "answer_text": "GNIOT Institute of Management Studies hostel fee is INR 2.97 lakh. This fee amount can include caution deposit or the refundable amount. Apart from this, the tuition fee is charged semester-wise or annually. The given fee is as per official website/ sanctioning body. It is still subject to revision and hence, is indicative",
+                "answer_text": "The admission process for MBA at Institute of Management and Entrepreneurship Development is as listed here: Apply for BMAT admission test which is conducted in-house by the institute. Wait for shortlisting based on BMAT scores Appear for Personal Interaction (PI) and Portfolio Assessment rounds Declaration of merit list Appear for counselling process followed by payment of admission fees as well as document verification.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is a better institute to pursue MBA, LPU or IIM?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
+                "posted_time": "3 hours ago"
               },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 3,
-            "answers": [
               {
                 "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
+                  "name": null,
+                  "profile_url": null
                 },
-                "answer_text": "Well definitely IIM can not be compared. If you can get through their process you should go there otherwise in my opinion LPU is also good in all the aspects. Lovely professional university being the largest Private University in India having 30000+ students studying in more than 200+ courses, which includes 6000+ international students from 70+ countries from all around the world. LPU has lived up to its expectations, with the quality of education, the placement opportunities are amazing as well. It is one of the top 5 universities of India, providing quality education, innovative pedagogy and unbeatable placements both national and i",
+                "answer_text": null,
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "3 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the tuition fees for an MBA at GNIOT Greater Noida?",
+            "question_text": "Can I join the MBA programme at IMED Pune without appearing for the MAH CET?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "GNIOT - Greater Noida Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/gniot-greater-noida-institute-of-technology-47164"
+                "tag_name": "Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
+                "tag_url": "https://www.shiksha.com/college/institute-of-management-and-entrepreneurship-development-bharati-vidyapeeth-erandwana-pune-19617"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Piyush Jain",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587038"
+                  "name": "Chikat Marchang",
+                  "profile_url": "https://www.shiksha.com/userprofile/97350186"
                 },
-                "answer_text": "GNIOT Greater Noida tuition fee is INR 7.8 lakh . After final selection, candidates need to pay admission fee amount to confirm seats. It should be noted that the mentioned fee is as per the official website/ sanctioning body. It can be revised and hence, is indicative.",
+                "answer_text": "Yes, you can join the MBA programme at IMED Pune without appearing for the MAH CET as the institute conducts its own entrance exam, the Bharati Vidyapeeth Management Aptitude Test (BMAT), for MBA admissions and does not accept MAH CET scores for admissions. To be eligible for admission, candidates must hold a graduate degree with at least 50% marks (45% for SC/ST candidates) in aggregate in any discipline from a recognised university.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "3 hours ago"
               }
             ]
           },
           {
-            "question_text": "What kind of questions are asked in GD and PI rounds at GNIOT for MBA course?",
+            "question_text": "How do you pay MBA fee at ATLAS SkillTech University?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "GNIOT - Greater Noida Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/gniot-greater-noida-institute-of-technology-47164"
+                "tag_name": "MBA Fees",
+                "tag_url": "https://www.shiksha.com/tags/mba-fees-tdp-166298"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Kartik Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586926"
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
                 },
-                "answer_text": "For admissions into MBA course at GNIOT Institute of Management, GDs usually revolve around current affairs or business topics. Additionallym PIs assess students' personality, career goals, clarity of thought, and confidence.",
+                "answer_text": "All MBA fees at ATLAS SkillTech University are paid through the online payment link available on the admissions application page. Payments must be made as per the instructions mentioned in the offer letter. Offline or alternate payment modes are generally not accepted.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "3 hours ago"
               }
             ]
           },
           {
-            "question_text": "What documents do I need for admissions to MBA course at GNIOT Institute of Management?",
+            "question_text": "What happens if you withdraw from the MBA programme at ATLAS SkillTech University?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "GNIOT - Greater Noida Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/gniot-greater-noida-institute-of-technology-47164"
+                "tag_name": "ATLAS SkillTech University",
+                "tag_url": "https://www.shiksha.com/university/atlas-skilltech-university-mumbai-155157"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Indrani Tyagi",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586562"
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
                 },
-                "answer_text": "For admissions to MBA/ PGDM course at GNIOT Institute of Management, you will typically need mark sheets for 10th,  12th, and graduation, entrance test scorecard, ID proof, photos, and (if applicable) category certificates.",
+                "answer_text": "Withdrawal from MBA programme at ATLAS SkillTech University allows refund consideration as per the official Fee Refund Policy. Refunds are governed by UGC norms and university rules. The refund amount depends on the timing of the withdrawal request.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "3 hours ago"
               }
             ]
           },
           {
-            "question_text": "Can PST graduates apply for higher studies (MS/MTech/MBA) in India or abroad?",
+            "question_text": "Is the MBA application fee refundable at ATLAS SkillTech University?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Polaris School of Technology",
-                "tag_url": "https://www.shiksha.com/college/polaris-school-of-technology-electronic-city-bangalore-238876"
+                "tag_name": "ATLAS SkillTech University",
+                "tag_url": "https://www.shiksha.com/university/atlas-skilltech-university-mumbai-155157"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Shilpaa Gupta",
-                  "profile_url": "https://www.shiksha.com/userprofile/100336316"
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
                 },
-                "answer_text": "Absolutely. As a graduate from Polaris, you hold a B.Tech degree from a UGC-recognized university, which is the standard eligibility criteria for most higher education entrance exams. For studies in India, you are eligible to appear for exams like CAT (for MBA), GATE (for M.Tech), and other state-level entrance tests. For studies abroad, you can apply for MS or MBA programs.",
+                "answer_text": "ATLAS SkillTech University MBA is non-refundable under all circumstances. Once application is submitted and the fee is paid, no refund is processed. This policy applies even if the application is withdrawn later.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "3 hours ago"
               }
             ]
           }
@@ -838,7 +814,7 @@
       "QA_D": {
         "questions": [
           {
-            "posted_time": "3 weeks ago",
+            "posted_time": "4 weeks ago",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -851,7 +827,7 @@
             ],
             "question_text": "Is it a good idea to give multiple MBA entrance exams like CAT CMAT XAT MAT?",
             "followers": 2,
-            "views": "1.5000",
+            "views": "1.6000",
             "author": {
               "name": "Rohan Bhatia",
               "profile_url": "https://www.shiksha.com/userprofile/99131780"
@@ -859,7 +835,7 @@
             "answer_text": "Yes, giving multiple MBA entrance exams like CAT, CMAT, XAT, and MAT is generally a good idea. Most of the syllabus overlaps, so your preparation works across exams, and it reduces the risk of depending on just one test.Different exams open doors to different colleges. For example, CAT is needed for IIMs, while exams like CMAT, MAT, or NMAT are accepted by many private B-schools. Colleges such as Athena School of Management also consider multiple exams and focus on the overall profile, so having more scores gives you flexibility.Overall, multiple exams simply mean more options and backup choices, which is always helpful."
           },
           {
-            "posted_time": "a month ago",
+            "posted_time": "2 months ago",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -872,7 +848,7 @@
             ],
             "question_text": "Is quality of MBA education declining?",
             "followers": 1,
-            "views": 678,
+            "views": 682,
             "author": {
               "name": "Aditi Sharma",
               "profile_url": "https://www.shiksha.com/userprofile/99146630"
@@ -880,7 +856,7 @@
             "answer_text": "I don't think the quality of MBA education is declining overall, but it's becoming very uneven. A lot more colleges have opened in the last few years, so the quality really depends on the institute you choose.Top and mid-tier B-schools still maintain good faculty, internships and placement support. But some smaller colleges don't update their curriculum or offer enough industry exposure, which makes the experience feel outdated.So it's not that MBA quality is falling everywhere — it's just important to pick a college that focuses on practical learning, internships and industry linkages rather than just classroom teaching."
           },
           {
-            "posted_time": "a month ago",
+            "posted_time": "2 months ago",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -893,7 +869,7 @@
             ],
             "question_text": "Top MBA institutes accepting MAT, CMAT and XAT scores.",
             "followers": 10,
-            "views": "13.9000",
+            "views": 14000,
             "author": {
               "name": "Devika Verma",
               "profile_url": "https://www.shiksha.com/userprofile/99021392"
@@ -943,7 +919,7 @@
             "answer_text": "An MBA from IIM is ideal if you aim for leadership, business, or management roles with high salary packages and faster career growth. An M.Tech from IIT suits those interested in technical expertise, research, or academia. Choose MBA for business-driven careers and M.Tech for deep domain specialization. Your career goal should guide your choice."
           },
           {
-            "posted_time": "6 months ago",
+            "posted_time": "7 months ago",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
