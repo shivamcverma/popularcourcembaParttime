@@ -227,52 +227,52 @@
           {
             "name": "Finance",
             "link": "https://www.shiksha.com/mba/colleges/part-time-mba-colleges-india?sby=popularity&rf=filters&sp[]=188",
-            "college_count": "42  Colleges"
+            "college_count": "42Colleges"
           },
           {
             "name": "Sales & Marketing",
             "link": "https://www.shiksha.com/mba/colleges/part-time-mba-colleges-india?sby=popularity&rf=filters&sp[]=451",
-            "college_count": "42  Colleges"
+            "college_count": "42Colleges"
           },
           {
             "name": "Human Resources",
             "link": "https://www.shiksha.com/mba/colleges/part-time-mba-colleges-india?sby=popularity&rf=filters&sp[]=251",
-            "college_count": "40  Colleges"
+            "college_count": "40Colleges"
           },
           {
             "name": "IT & Systems",
             "link": "https://www.shiksha.com/mba/colleges/part-time-mba-colleges-india?sby=popularity&rf=filters&sp[]=283",
-            "college_count": "24  Colleges"
+            "college_count": "24Colleges"
           },
           {
             "name": "International Business",
             "link": "https://www.shiksha.com/mba/colleges/part-time-mba-colleges-india?sby=popularity&rf=filters&sp[]=274",
-            "college_count": "20  Colleges"
+            "college_count": "20Colleges"
           },
           {
             "name": "Operations",
             "link": "https://www.shiksha.com/mba/colleges/part-time-mba-colleges-india?sby=popularity&rf=filters&sp[]=385",
-            "college_count": "20  Colleges"
+            "college_count": "20Colleges"
           },
           {
             "name": "HealthCare & Hospital",
             "link": "https://www.shiksha.com/mba/colleges/part-time-mba-colleges-india?sby=popularity&rf=filters&sp[]=236",
-            "college_count": "12  Colleges"
+            "college_count": "12Colleges"
           },
           {
             "name": "Retail",
             "link": "https://www.shiksha.com/mba/colleges/part-time-mba-colleges-india?sby=popularity&rf=filters&sp[]=440",
-            "college_count": "10  Colleges"
+            "college_count": "10Colleges"
           },
           {
             "name": "Supply Chain",
             "link": "https://www.shiksha.com/mba/colleges/part-time-mba-colleges-india?sby=popularity&rf=filters&sp[]=487",
-            "college_count": "10  Colleges"
+            "college_count": "10Colleges"
           },
           {
             "name": "Travel & Tourism Management",
             "link": "https://www.shiksha.com/mba/colleges/part-time-mba-colleges-india?sby=popularity&rf=filters&sp[]=513",
-            "college_count": "10  Colleges"
+            "college_count": "10Colleges"
           }
         ],
         "faqs": [
@@ -561,12 +561,38 @@
         "stats": {
           "Questions": "127.9k",
           "Discussions": "55",
-          "Active Users": "569",
+          "Active Users": "565",
           "Followers": "195000"
         },
         "questions": [
           {
-            "question_text": "How does GIBS consistently achieve a 100% placement rate for its PGDM and BBA students?",
+            "question_text": "How are the placement in LPU for MBA students?",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Samreen Begum",
+                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
+                },
+                "answer_text": "The MBA placement scenario of LPU is indeed good. In 2025, above 95% of students were placed with 1,129 offers—a 29% increase from the previous year. The highest package touched INR 49.4 LPA, and the top 10% received an average of INR 13.6 LPA from companies like KPMG, ICICI, and Nestlé. More than 130 students got placements above INR 10 LPA.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How does GIBS help introverted or non-marketing-oriented students crack placements?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -584,15 +610,15 @@
                   "name": "Shalinigowda",
                   "profile_url": "https://www.shiksha.com/userprofile/100477394"
                 },
-                "answer_text": "Tbh, the 100% placement at GIBS doesn't happen magically in the last month of college. As a student, I've seen how they start grooming us from day one itself — communication training, aptitude, GDs, mock interviews, networking, all of that keeps happening casually in the background. Plus GIBS has this crazy corporate network that keeps coming on campus for talks, internships, and projects, so by the time final placements start companies already know us and we've already built a profile. And we don't go into interviews empty — live projects + internships + IRE sessions + certifications give you real stuff to talk about. What I really",
+                "answer_text": "Honestly, GIBS is pretty good for introverts or non-marketing students because they don't force you to suddenly become outgoing. Through CPM and IRE activities, mock interviews, small presentations, and group tasks, you slowly build confidence without feeling judged. Plus, placements aren't just for marketing — there are HR, finance, analytics, operations, and research roles where quiet and detail-oriented students do really well. The mentors also guide you based on your strengths, so you learn how to present yourself better in interviews. By the time companies come, you're actually ready even if you started off shy.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "6 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is it better to do MBA from LPU or Chandigarh university? Which one is better?",
+            "question_text": "Which university offers more good specializations in MBA - LPU or Chandigarh University?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -607,70 +633,18 @@
             "answers": [
               {
                 "author": {
-                  "name": "Samreen Begum",
-                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
+                  "name": "Vridhi",
+                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
                 },
-                "answer_text": "The LPU MBA programme has an edge over the others with a 95%+ placement rate. 2025 saw a peak package of INR 49.4 LPA, INR 13.6 LPA for the average of the top 10% of students, and 1,129 offers from 450+ recruiters like KPMG, ICICI Bank, and Nestlé. Finance, marketing, and HR specializations open up more scopes for students.",
+                "answer_text": "Here's a clear comparison of MBA specializations offered by Lovely Professional University (LPU) and Chandigarh University (CU) , focusing on which university gives you more/better options : 📌 Lovely Professional University (LPU) MBA: LPU offers a wide variety of MBA specializations , including both traditional and niche fields . You can choose dual specializations in many areas (two fields). Some of the specializations include: Finance, Marketing, Human Resource Management Business Analytics, International Business Information Technology, Supply Chain & Logistics Hospital & Healthcare Management, Digital Marketing Retail Management, Entrepren",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "7 hours ago"
               }
             ]
           },
           {
-            "question_text": "What are the eligibility criteria for the PGDM programme at GIBS Business School?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "GIBS Business School",
-                "tag_url": "https://www.shiksha.com/college/gibs-business-school-bangalore-46745"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Shalinigowda",
-                  "profile_url": "https://www.shiksha.com/userprofile/100477394"
-                },
-                "answer_text": "If you're asking about the PGDM at GIBS, honestly the eligibility part is pretty straightforward. You just need to have completed your graduation in any stream (like BBA, BCom, BTech, BA, etc.). Even students who are in their final year can apply — so it's not like you need to wait forever. Apart from that, you need to have a valid score from entrance exams like CAT, MAT, XAT, CMAT, ATMA, KMAT, etc. Nothing scary — even I applied with MAT. GIBS looks more at overall fit, motivation, and how serious you are about building a career than just raw marks. For me the best part was that GIBS gives importance to practical learning, placement",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Describe key events or clubs at GIBS, such as TEDx or sports like volleyball.",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "GIBS Business School",
-                "tag_url": "https://www.shiksha.com/college/gibs-business-school-bangalore-46745"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Shalinigowda",
-                  "profile_url": "https://www.shiksha.com/userprofile/100477394"
-                },
-                "answer_text": "At GIBS there's always something happening besides classes. TEDxGIBS is one of the biggest — the speakers, the atmosphere, and the whole backstage craze actually make you feel part of something big and creative. Sports events like volleyball tournaments add that fun college vibe — everyone shouting, cheering, and pretending like it's the Olympics Then there are different clubs — cultural, entrepreneurship, newsletter, magazine, IRE, marketing, etc. These clubs are where we learned teamwork, communication, and honestly where half the memories were made. Plus those MIT bootcamps and AI sessions recently… that kind of exposur",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the placement record for MBA?",
+            "question_text": "How are the MBA specializations at Chandigarh University different from those offered at LPU?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -685,29 +659,107 @@
             "answers": [
               {
                 "author": {
-                  "name": "Samreen Begum",
-                  "profile_url": "https://www.shiksha.com/userprofile/83753496"
+                  "name": "Vridhi",
+                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
                 },
-                "answer_text": "The MBA placements at LPU 2025 recorded a successful 95-96% in securing placements through 1,129 offers which reflected an increase of 29% from the previous year 2024. The highest package reached INR 49.4 LPA (top 10% average INR 13.6 LPA), from among 450+ recruiters including KPMG, ICICI Bank, Nestlé, and Aditya Birla. A total of over 130 students managed to grab INR 10-49.4 LPA roles.",
+                "answer_text": "Lovely Professional University (LPU) and Chandigarh University both offer MBA programs with multiple specializations , but they differ in breadth, focus areas, and structure . LPU's MBA specializations are notably wide-ranging and flexible , allowing students to choose dual specializations or even super specializations . LPU's options cover traditional areas like Finance, Marketing, Human Resource Management, International Business, and Business Analytics , as well as niche fields such as FinTech, Artificial Intelligence for Business, Digital Marketing, Retail Management, Auditing & Taxation, Hospital & Healthcare Management, and operations-",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "7 hours ago"
               }
             ]
           },
           {
-            "question_text": "Sir/Mdm ! My daughter is pursuing BBA Tourism Degree final year, after this course which is the better MBA Or LLB?",
+            "question_text": "How many companies visited GIBS for the 2025 placements, and how many students were placed?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "BBA",
-                "tag_url": "https://www.shiksha.com/bba-chp9"
+                "tag_name": "Gitarattan International Business School",
+                "tag_url": "https://www.shiksha.com/college/gitarattan-international-business-school-rohini-delhi-37867"
               }
             ],
-            "followers": 1,
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Mohammed Maqsood",
+                  "profile_url": "https://www.shiksha.com/userprofile/99292942"
+                },
+                "answer_text": "In the 2025 placement season, more than 260 companies participated in the final placement activity of GIBS Business School in Bangalore across various industries including consulting, IT, BFSI, FMCG, and logistics. This vast selection of company participants also provided job opportunities in several different domains for many students who participated in the 2025 placement season. As a result of the company's significant commitment to the students, all eligible graduates of the GIBS Business School were successfully placed during the 2025 placement season and the strong level of engagement between the industry and the GIBS Business Sc",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "7 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which top companies regularly visit GIBS for campus placements and internships?",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "Gitarattan International Business School",
+                "tag_url": "https://www.shiksha.com/college/gitarattan-international-business-school-rohini-delhi-37867"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Yuvraj",
+                  "profile_url": "https://www.shiksha.com/userprofile/100154398"
+                },
+                "answer_text": "1.Northern Trust 2.L&T Technology services 3.Apollo Tyres 4.Gallagher 5.IVY Homes 6.Bajaj Finserv 7.Commowealth Bank 8.Policy Bazzar 9.Cafe Coffe Day 10.MedPlus",
+                "upvotes": 1,
+                "downvotes": 0,
+                "posted_time": "10 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which one will be better, a data scientist or an HR executive? I did an MBA in HR and a data Science course.",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "Data Scientist",
+                "tag_url": "/careers/data-scientist-214"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neethu Nanjan",
+                  "profile_url": "https://www.shiksha.com/userprofile/98861080"
+                },
+                "answer_text": "You have MBA in HR + Data Science course from DataMites Here are 5 simple points to help you decide: Money & Growth: Data Scientist usually gets much higher salary and faster career growth Future Demand: Data Science jobs are growing very fast (AI, ML boom), HR jobs grow slowly Your MBA in HR: Very useful! You can become special People Analytics / HR Data Analyst. best of both worlds. Interest & Enjoyment: If you love numbers, coding & analysis → choose Data Scientist If you love people, culture & employee relations → choose HR Executive Best Choice for You: Most smart option right now = Start with Data Science / People Analytics (using",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "15 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "I need help with selecting MBA colleges",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "Business Management Studies",
+                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
+              }
+            ],
+            "followers": 0,
             "answers": [
               {
                 "author": {
@@ -717,111 +769,7 @@
                 "answer_text": null,
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "8 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is KMAT compulsory for admissions into MBA course at Karunya School of Management?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "NMIMS Deemed to be University, Bannerghatta",
-                "tag_url": "https://www.shiksha.com/college/nmims-deemed-to-be-university-bannerghatta-bannerghatta-road-bangalore-32410"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Indrani Tyagi",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586562"
-                },
-                "answer_text": "No, KMAT scores are not compulsory for admissions into the MBA course at KSM, Karunya University. There are other scores too, on which school looks upon for selecting the students. Those entrance exams are XAT/CAT/MAT. Thus, students with good scores in any of the following can enroll in the MBA course at KSM.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "9 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What are the names of the accepted entrance exam for admissions into MBA course at Karunya School of Management?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "NMIMS Deemed to be University, Bannerghatta",
-                "tag_url": "https://www.shiksha.com/college/nmims-deemed-to-be-university-bannerghatta-bannerghatta-road-bangalore-32410"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Abhishek Hazarika",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586672"
-                },
-                "answer_text": "Firstly, Karunya School of Management accepts the scores of KMAT (Karunya MAT) for admissions into MBA course. Also, it accepts the applicable scores of national-level entrance test. The names of the accepted national-level entrance test are XAT/ CAT/ MAT.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "9 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What are the factors that I can consider for comparing Karunya School of Management MBA course?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "NMIMS Deemed to be University, Bannerghatta",
-                "tag_url": "https://www.shiksha.com/tags/nmims-deemed-to-be-university-bannerghatta-tdp-194937"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Indrani Kumar",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586802"
-                },
-                "answer_text": "There are no. of factors that one can taken into account, while comparing the Karunya School of Management MBA course. These factors can not be predecided, because it can change according to the students' preferences. Some of the important considered factors are, seats, placements, fees, ROI, etc.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "9 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Does Karunya School of Management offers scholarships to MBA students?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "NMIMS Deemed to be University, Bannerghatta",
-                "tag_url": "https://www.shiksha.com/college/nmims-deemed-to-be-university-bannerghatta-bannerghatta-road-bangalore-32410"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tanisha Pandey",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587008"
-                },
-                "answer_text": "Yes, Karunya School of Management does offer scholarships to MBA students. Also, the scholarships depends on the students' secured scores in MAT/ KMAT. The criteria for MAT scholarships are as follows: MAT > 700: Around INR 50,000/year. MAT > 600: Around INR 30,000/year.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "9 hours ago"
+                "posted_time": "15 hours ago"
               }
             ]
           }
@@ -830,7 +778,7 @@
       "QA_D": {
         "questions": [
           {
-            "posted_time": "4 weeks ago",
+            "posted_time": "a month ago",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
