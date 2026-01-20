@@ -110,10 +110,6 @@
         "important_dates": {
           "upcoming": [
             {
-              "date": "13 Jan ' 26 - 17 Jan ' 26",
-              "event": "NMAT 2025 Exam Date (Additional Window)"
-            },
-            {
               "date": "10 Jan ' 26 - 12 Feb ' 26",
               "event": "MAH MBA CET 2026 registration ONGOING"
             },
@@ -130,6 +126,10 @@
               "event": "TANCET registration window TENTATIVE"
             },
             {
+              "date": "Feb ' 26",
+              "event": "IPMAT 2026 Application Form Release TENTATIVE"
+            },
+            {
               "date": "23 Feb ' 26",
               "event": "MAT Feb 2026 PBT Registration last date"
             },
@@ -140,16 +140,16 @@
           ],
           "past": [
             {
+              "date": "13 Jan ' 26 - 17 Jan ' 26",
+              "event": "NMAT 2025 Exam Date (Additional Window)"
+            },
+            {
               "date": "05 Jan ' 26 - 10 Jan ' 26",
               "event": "NMAT 2025 Registration (Additional Window)"
             },
             {
               "date": "05 Jan ' 26 - 10 Jan ' 26",
               "event": "NMAT 2025 Scheduling (Additional Window)"
-            },
-            {
-              "date": "27 Dec ' 25 - 28 Dec ' 25",
-              "event": "IBSAT 2025 Exam Date"
             }
           ]
         },
@@ -561,38 +561,38 @@
         "stats": {
           "Questions": "127.9k",
           "Discussions": "55",
-          "Active Users": "562",
+          "Active Users": "555",
           "Followers": "195000"
         },
         "questions": [
           {
-            "question_text": "I want to pursue MBA in regular mode but looking for Direct admission in 2026 Batch",
+            "question_text": "What is the total number of seat offered into MBA course at NIF Global Jaipur?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Full Time",
-                "tag_url": "https://www.shiksha.com/tags/full-time-tdp-438"
+                "tag_name": "NIF Global Jaipur",
+                "tag_url": "https://www.shiksha.com/college/nif-global-jaipur-34577"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": null,
-                  "profile_url": null
+                  "name": "Piyush Jain",
+                  "profile_url": "https://www.shiksha.com/userprofile/78587038"
                 },
-                "answer_text": null,
+                "answer_text": "The NIF Global Jaipur gives a complete of 60 seats for the Bachelor of Design course. These seats are granted, (depends on merit), scores in last qualifying/ Class 12 exam, and the further institute's admission process.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "24 mins ago"
+                "posted_time": "14 hours ago"
               }
             ]
           },
           {
-            "question_text": "How comfortable are the hostel rooms and study spaces for students on the GIBS new campus?",
+            "question_text": "How is the academic environment at GIBS in terms of discipline, workload, and support?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -607,221 +607,205 @@
             "answers": [
               {
                 "author": {
-                  "name": "Shalinigowda",
-                  "profile_url": "https://www.shiksha.com/userprofile/100477394"
+                  "name": "Mohammed Maqsood",
+                  "profile_url": "https://www.shiksha.com/userprofile/99292942"
                 },
-                "answer_text": "I feel the hostel rooms at GIBS are honestly way more comfortable than I expected. Clean, organized, proper storage, good ventilation, and that peaceful vibe which actually helps during exam time. And the best part is the study spaces—super chill but focused. You can easily sit with your books, laptop, and just get things done.",
+                "answer_text": "The GIBS Business School promotes an environment of support, professionalism, and balance in relationships through its academic programs. Structured class timetables and regular attendance requirements, along with evaluating students on their assignments, presentations, quizzes, and class participation, encourage students to take responsibility and prepare for the corporate world. The coursework is appropriately paced for the number of hours of weekly class time; students engage in rigorous coursework (including case studies and live projects), complete group work, study for examinations and write assessments, but they also have enough",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "15 hours ago"
               }
             ]
           },
           {
-            "question_text": "What are the specializations offered at IILM for MBA?",
+            "question_text": "What is the hostel fee for IIT Dhanbad MBA course?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "IILM University",
-                "tag_url": "https://www.shiksha.com/university/iilm-university-gurgaon-56587"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Shrinkhala S Chand",
-                  "profile_url": "https://www.shiksha.com/userprofile/25495731"
-                },
-                "answer_text": "IILM University offers various specializations for its MBA program, including: - Finance: Corporate Finance, Financial Technology, and Accounting and Finance - Marketing: Marketing Management, Marketing and Innovation, and Digital Marketing - Human Resource Management: HRM, Strategic HRM, and Behavioural Sciences - Operations Management: Operations Management, Logistics, and Supply Chain Management - Business Analytics: Business Analytics, Data Science, and Artificial Intelligence - Entrepreneurship: Entrepreneurship and Innovation, and Family Managed Business - International Business: Global Immersion Program, and International Business - Hea",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Do MBA students at Manipur Institute of Management Studies have access to external scholarships?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "Business Management Studies",
-                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
+                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
+                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                  "name": "Atul Pruthi",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586734"
                 },
-                "answer_text": "Manipur Institute of Management Studies MBA students can apply for external and corporate scholarships alongside university awards. These include bank-funded and trust-based scholarships. Application procedures and deadlines vary by sponsoring organisation.",
+                "answer_text": "The hostel amount for the MBA students at IIT Dhanbad, can fluctuate according to the chosen room/ type of hostel. The accommodation can be of single occupancy, double, triple, etc. The hostel charges is around Rs. 77,700. This fee can change because of the no. of reasons, likewise academic year, seats, etc.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "15 hours ago"
               }
             ]
           },
           {
-            "question_text": "What university-sponsored awards are offered to MBA students at Manipur Institute of Management Studies?",
+            "question_text": "What is the tuition fee for MBA course at IIT Dhanbad?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Business Management Studies",
-                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
+                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
+                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                  "name": "Chanchal Gaurav",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586500"
                 },
-                "answer_text": "Manipur Institute of Management Studies offers Gold Medals and Cash Awards for academic excellence. These include memorial gold medals for top MBA performers. Awards are based on first-class results and overall performance.",
+                "answer_text": "IIT Dhanbad  MBA tuition fee is INR 3L. After the final selection, candidates need to pay the admission fee amount to confirm their seats. It should be noted that the mentioned fee is as per the official website/ sanctioning body. It can be revised and hence, is indicative.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "15 hours ago"
               }
             ]
           },
           {
-            "question_text": "Are there any additional charges apart from MBA tuition fees at Manipur Institute of Management Studies?",
+            "question_text": "What are the eligibility criteria for the PGDM programme at GIBS Business School?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Business Management Studies",
-                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
+                "tag_name": "GIBS Business School",
+                "tag_url": "https://www.shiksha.com/college/gibs-business-school-bangalore-46745"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                  "name": "Mohammed Maqsood",
+                  "profile_url": "https://www.shiksha.com/userprofile/99292942"
                 },
-                "answer_text": "Yes, apart from the MBA tuition fee at Manipur Institute of Management Studies, students may need to pay additional charges such as registration, examination, library, and other university fees. These are usually communicated during admission or counselling.",
+                "answer_text": "GIBS Business School, Bangalore, offers the Post Graduate Diploma in Management (PGDM) programme. All applicants must meet the following criteria to qualify for admission to the PGDM programme at GIBS Business School: Education: Applicants must have completed their Bachelor's Degree from a recognised college/university. Minimum Mark Requirement: Applicants must typically have achieved a minimum of 50% overall marks in their Bachelor's Degree (or 45% for applicants in a reserved category). Final Year Students: Final year students can also be considered if they will complete their Bachelor's Degree and meet the minimum eligibility criteria",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "15 hours ago"
               }
             ]
           },
           {
-            "question_text": "What selection process is followed for MBA at Manipur Institute of Management Studies?",
+            "question_text": "What is the eligibility criteria for the MBA programme offered by Scott Christian College?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Business Management Studies",
-                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
+                "tag_name": "Scott Christian College",
+                "tag_url": "https://www.shiksha.com/college/scott-christian-college-nagercoil-75671"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                  "name": null,
+                  "profile_url": null
                 },
-                "answer_text": "Applicants qualifying in the entrance test are shortlisted for Group Discussion and Personal Interview. Selection is done purely on merit. Candidates must attend these rounds at their own cost and expense.",
+                "answer_text": null,
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "15 hours ago"
+              },
+              {
+                "author": {
+                  "name": null,
+                  "profile_url": null
+                },
+                "answer_text": null,
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "15 hours ago"
               }
             ]
           },
           {
-            "question_text": "What minimum marks are required for SC/ST candidates for MBA at Manipur Institute of Management Studies?",
+            "question_text": "How does GIBS help introverted or non-marketing-oriented students crack placements?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Business Management Studies",
-                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
+                "tag_name": "Gitarattan International Business School",
+                "tag_url": "https://www.shiksha.com/college/gitarattan-international-business-school-rohini-delhi-37867"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                  "name": "Mohammed Maqsood",
+                  "profile_url": "https://www.shiksha.com/userprofile/99292942"
                 },
-                "answer_text": "SC/ST candidates applying for MBA at Manipur Institute of Management Studies must secure at least 45% aggregate marks. This relaxation applies only to reserved categories. Final eligibility is subject to university norms.",
+                "answer_text": "GIBS provides a supportive environment for introverted or non-marketing oriented students to develop their placement potential through a focus on personalized mentoring and emphasising strengths rather than a one-size-fits-all approach. Students will be assisted by the placement team and faculty in finding appropriate career paths in analytics, finance, human resources, operations, research, back-end consulting or corporate support functions where communication skills are crucial but aggressive sales techniques are not required. Mock interviews, aptitude training, resume development, domain-based skill development and one-to-one mentor",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "15 hours ago"
               }
             ]
           },
           {
-            "question_text": "Does Manipur Institute of Management Studies conduct counselling for MBA admissions?",
+            "question_text": "What is IIT Dhanbad MBA in Business Analytics application fee?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Business Management Studies",
-                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
+                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
+                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                  "name": "Kartik Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586926"
                 },
-                "answer_text": "Yes, counselling for MBA admissions at Manipur Institute of Management Studies is conducted by Manipur University. Seat allotment is based on CUET (PG) scores. Candidates must select MIMS during the counselling process.",
+                "answer_text": "Application fees for MBA in Business Analytics course at IIT Dhanbad reconciliation may take up to 7–10 days. Hence, students ae suggested to not make second time payment and wait for same. Also, preserve your payment receipt for future communication for any clarification on same. The application fee for MBA BA course is as follows: Programme Fees MBA in Business Analytics Application Fee (Gen/OBC/EWS) Rs. 1600 MBA in Business Analytics Application Fee (SC/ST/PwD) Rs. 800",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "15 hours ago"
               }
             ]
           },
           {
-            "question_text": "How can candidates apply for MBA at Manipur Institute of Management Studies?",
+            "question_text": "What are the important admission dates for MBA course at IIT Dhanbad?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Business Management Studies",
-                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
+                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
+                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                  "name": "Vishakha",
+                  "profile_url": "https://www.shiksha.com/userprofile/65654303"
                 },
-                "answer_text": "Candidates must first appear for CUET (PG) and then register on the Manipur University admission portal. Separate registration on the Samarth portal is required for programme selection. Final admission depends on counselling and seat allotment.",
+                "answer_text": "The important admission dates for MBA courses at IIT Dhanbad have different events scheduled. Some of the important dates for IIT Dhanbad MBA academic year 2026: Procedure Date Online Application Form Begins 24th December 2025 Last date of Online Application 31st January 2026 Personal interview Feb 19-22, March 14-16, March 22-24 & March28-29,  2026 Declaration of Admission Results First Week of May,  2026 (Tentative) Reporting at IIT (ISM) Dhanbad To be Notified Commencement of Semester for all MBA courses To be Notified",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "15 hours ago"
               }
             ]
           }
@@ -864,7 +848,7 @@
             ],
             "question_text": "Is quality of MBA education declining?",
             "followers": 1,
-            "views": 685,
+            "views": 686,
             "author": {
               "name": "Aditi Sharma",
               "profile_url": "https://www.shiksha.com/userprofile/99146630"
